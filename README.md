@@ -1,6 +1,6 @@
 # NOS
 
-Ovdje se nalaze sve datoteke potrebne za pokretanje programa programskog zadatka.
+Ovdje se nalaze sve datoteke potrebne za pokretanje programa projektnog zadatka.
 
 Direktoriji *asim*, *kljucevi*, *potpis* i *sim* su direktoriji stvoreni za primjer tijekom zadnjeg izvođenja programa.
 
